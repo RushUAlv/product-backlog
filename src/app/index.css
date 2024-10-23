@@ -1,0 +1,30 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --main-bg: #f2f1f3;
+  --btn-dark-grey: #64666a;
+  --dusty-grey: #969696;
+  --shuttle-grey: #64666a;
+  --picton-blue: #34a3e1;
+  --smoky: #61566d;
+  --mischka: #e3e1e5;
+  --notification-success: #2b9690;
+  --notification-error: #e95039;
+
+  --black: #000;
+  --white: #fff;
+
+  --dxc-white: #fcfcfd;
+  --dxc-purple: #5f249f;
+  --dxc-grey: #d9d9d6;
+  --dxc-bright-teal: #00968f;
+  --dxc-dark-teal: #006975;
+  --dxc-blue: #00a3e1;
+  --dxc-green: #6cc24a;
+}
+
+body {
+  overflow: hidden;
+}
